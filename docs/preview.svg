@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 780" width="1280" height="780" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dcf5ec"/><stop offset="1" stop-color="#dff0f8"/></linearGradient><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f9d78"/><stop offset="1" stop-color="#22b8cf"/></linearGradient><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#0b4a3a" flood-opacity=".2"/></filter><clipPath id="win"><rect x="40" y="30" width="1200" height="720" rx="14"/></clipPath></defs>
+<rect width="1280" height="780" fill="url(#bg)"/><rect x="40" y="30" width="1200" height="720" rx="14" fill="#fff" filter="url(#sh)"/><g clip-path="url(#win)">
+<rect x="40" y="30" width="1200" height="38" fill="#eef0f3"/>
+<circle cx="62" cy="49" r="6" fill="#ff5f57"/>
+<circle cx="82" cy="49" r="6" fill="#febc2e"/>
+<circle cx="102" cy="49" r="6" fill="#28c840"/>
+<rect x="420" y="38" width="440" height="22" rx="11" fill="#fff"/>
+<text x="640" y="53" font-size="11" fill="#667085" font-weight="400" text-anchor="middle">localhost:5173</text>
+<rect x="40" y="68" width="1200" height="682" fill="#f4f6f8"/>
+<rect x="80" y="92" width="36" height="36" rx="11" fill="url(#lg)"/>
+<text x="128" y="110" font-size="20" fill="#15191f" font-weight="700" text-anchor="start">Ledger</text>
+<text x="128" y="125" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start">Personal expense tracker</text>
+<rect x="900" y="90" width="120" height="38" rx="10" fill="#fff" stroke="#e3e7ec"/>
+<text x="916" y="114" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Nov 2026  ▾</text>
+<rect x="1100" y="90" width="100" height="38" rx="10" fill="#0f9d78"/>
+<text x="1150" y="114" font-size="13" fill="#06231b" font-weight="600" text-anchor="middle">+ Add</text>
+<rect x="80" y="150" width="352" height="86" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="98" y="178" font-size="13" fill="#667085" font-weight="400" text-anchor="start">Balance</text>
+<text x="98" y="214" font-size="26" fill="#15191f" font-weight="700" text-anchor="start">$3,412.65</text>
+<rect x="456" y="150" width="352" height="86" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="474" y="178" font-size="13" fill="#667085" font-weight="400" text-anchor="start">↑ Income</text>
+<text x="474" y="214" font-size="26" fill="#0f9d78" font-weight="700" text-anchor="start">$4,850.00</text>
+<rect x="832" y="150" width="352" height="86" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="850" y="178" font-size="13" fill="#667085" font-weight="400" text-anchor="start">↓ Expenses</text>
+<text x="850" y="214" font-size="26" fill="#e5484d" font-weight="700" text-anchor="start">$1,437.35</text>
+<rect x="80" y="252" width="552" height="230" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="98" y="282" font-size="15" fill="#15191f" font-weight="700" text-anchor="start">Spending by category</text>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#e3e7ec" stroke-width="22"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#4f46e5" stroke-width="22" stroke-dasharray="295.5 119.2" stroke-dashoffset="0.0" transform="rotate(-90 190 392)"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#f59f00" stroke-width="22" stroke-dasharray="55.5 359.2" stroke-dashoffset="-297.5" transform="rotate(-90 190 392)"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#f76707" stroke-width="22" stroke-dasharray="14.0 400.7" stroke-dashoffset="-355.0" transform="rotate(-90 190 392)"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#3b82f6" stroke-width="22" stroke-dasharray="19.2 395.5" stroke-dashoffset="-371.0" transform="rotate(-90 190 392)"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#7950f2" stroke-width="22" stroke-dasharray="12.1 402.6" stroke-dashoffset="-392.2" transform="rotate(-90 190 392)"/>
+<circle cx="190" cy="392" r="66" fill="none" stroke="#e64980" stroke-width="22" stroke-dasharray="6.4 408.3" stroke-dashoffset="-406.3" transform="rotate(-90 190 392)"/>
+<text x="190" y="390" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Spent</text>
+<text x="190" y="412" font-size="20" fill="#15191f" font-weight="700" text-anchor="middle">$1,437</text>
+<circle cx="330" cy="336" r="5" fill="#4f46e5"/>
+<text x="344" y="340" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Housing</text>
+<text x="610" y="340" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$1,350.00</text>
+<circle cx="330" cy="362" r="5" fill="#f59f00"/>
+<text x="344" y="366" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Food</text>
+<text x="610" y="366" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$261.00</text>
+<circle cx="330" cy="388" r="5" fill="#3b82f6"/>
+<text x="344" y="392" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Shopping</text>
+<text x="610" y="392" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$96.00</text>
+<circle cx="330" cy="414" r="5" fill="#f76707"/>
+<text x="344" y="418" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Fun</text>
+<text x="610" y="418" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$72.50</text>
+<circle cx="330" cy="440" r="5" fill="#7950f2"/>
+<text x="344" y="444" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Transport</text>
+<text x="610" y="444" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$64.00</text>
+<circle cx="330" cy="466" r="5" fill="#e64980"/>
+<text x="344" y="470" font-size="13" fill="#15191f" font-weight="400" text-anchor="start">Health</text>
+<text x="610" y="470" font-size="13" fill="#15191f" font-weight="600" text-anchor="end">$38.20</text>
+<rect x="648" y="252" width="552" height="230" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="666" y="282" font-size="15" fill="#15191f" font-weight="700" text-anchor="start">Last 6 months</text>
+<rect x="688" y="330.4" width="26" height="119.6" rx="4" fill="#0f9d78"/><rect x="718" y="400.6" width="26" height="49.4" rx="4" fill="#e5484d"/>
+<text x="716" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Jun</text>
+<rect x="772" y="323.9" width="26" height="126.1" rx="4" fill="#0f9d78"/><rect x="802" y="395.4" width="26" height="54.6" rx="4" fill="#e5484d"/>
+<text x="800" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Jul</text>
+<rect x="856" y="327.8" width="26" height="122.2" rx="4" fill="#0f9d78"/><rect x="886" y="404.5" width="26" height="45.5" rx="4" fill="#e5484d"/>
+<text x="884" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Aug</text>
+<rect x="940" y="321.3" width="26" height="128.7" rx="4" fill="#0f9d78"/><rect x="970" y="391.5" width="26" height="58.5" rx="4" fill="#e5484d"/>
+<text x="968" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Sep</text>
+<rect x="1024" y="324.7" width="26" height="125.3" rx="4" fill="#0f9d78"/><rect x="1054" y="398.5" width="26" height="51.5" rx="4" fill="#e5484d"/>
+<text x="1052" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Oct</text>
+<rect x="1108" y="323.9" width="26" height="126.1" rx="4" fill="#0f9d78"/><rect x="1138" y="412.6" width="26" height="37.4" rx="4" fill="#e5484d"/>
+<text x="1136" y="468" font-size="12" fill="#667085" font-weight="400" text-anchor="middle">Nov</text>
+<line x1="670" x2="1180" y1="450" y2="450" stroke="#e3e7ec"/>
+<rect x="80" y="498" width="1120" height="236" rx="16" fill="#fff" stroke="#e3e7ec"/>
+<text x="98" y="528" font-size="15" fill="#15191f" font-weight="700" text-anchor="start">Transactions</text>
+<rect x="900" y="508" width="130" height="30" rx="9" fill="#f4f6f8" stroke="#e3e7ec"/>
+<text x="965" y="528" font-size="11" fill="#667085" font-weight="600" text-anchor="middle">All  Income  Expenses</text>
+<line x1="98" x2="1182" y1="544" y2="544" stroke="#e3e7ec"/><circle cx="106" cy="566" r="6" fill="#22b8cf"/>
+<text x="124" y="564" font-size="13.5" fill="#15191f" font-weight="600" text-anchor="start">Design project</text>
+<text x="124" y="580" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start">Freelance · Nov 9</text>
+<text x="1150" y="570" font-size="13.5" fill="#0f9d78" font-weight="600" text-anchor="end">+$650.00</text>
+<line x1="98" x2="1182" y1="587" y2="587" stroke="#e3e7ec"/><circle cx="106" cy="609" r="6" fill="#3b82f6"/>
+<text x="124" y="607" font-size="13.5" fill="#15191f" font-weight="600" text-anchor="start">Running shoes</text>
+<text x="124" y="623" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start">Shopping · Nov 18</text>
+<text x="1150" y="613" font-size="13.5" fill="#e5484d" font-weight="600" text-anchor="end">-$96.00</text>
+<line x1="98" x2="1182" y1="630" y2="630" stroke="#e3e7ec"/><circle cx="106" cy="652" r="6" fill="#f76707"/>
+<text x="124" y="650" font-size="13.5" fill="#15191f" font-weight="600" text-anchor="start">Cinema and dinner</text>
+<text x="124" y="666" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start">Fun · Nov 15</text>
+<text x="1150" y="656" font-size="13.5" fill="#e5484d" font-weight="600" text-anchor="end">-$72.50</text>
+<line x1="98" x2="1182" y1="673" y2="673" stroke="#e3e7ec"/><circle cx="106" cy="695" r="6" fill="#f59f00"/>
+<text x="124" y="693" font-size="13.5" fill="#15191f" font-weight="600" text-anchor="start">Groceries</text>
+<text x="124" y="709" font-size="11.5" fill="#667085" font-weight="400" text-anchor="start">Food · Nov 11</text>
+<text x="1150" y="699" font-size="13.5" fill="#e5484d" font-weight="600" text-anchor="end">-$118.75</text>
+</g></svg>
